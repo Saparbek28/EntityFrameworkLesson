@@ -1,0 +1,14 @@
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EFDatabase.mdf
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EFDatabase_log.ldf
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.exe.config
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.exe
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.pdb
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFramework.dll
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFramework.xml
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csprojAssemblyReference.cache
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csproj.CopyComplete
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.exe
+C:\Users\БайназарС.CORP\source\repos\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.pdb
